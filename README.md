@@ -1,4 +1,12 @@
-### Hi there 👋
+Hello, 
+
+My name is Thibaut Müller,
+
+I just start a new carreer as Data Analyst 📊
+
+To do this, I trained with le wagon 🚂 and learn
+I also discovered tools such as BigQuery , DBt, Looker Studio, Power Bi 📈
+
 
 <!--
 **Thaubit/Thaubit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
